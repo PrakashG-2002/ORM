@@ -43,6 +43,8 @@ class PlayerAdmin(admin.ModelAdmin):
 ## OUTPUT
 ![Alt text](<Screenshot (9).png>)
 
+![Screenshot (10)](https://github.com/PrakashG-2002/ORM/assets/144507749/6ee29480-db0d-47ed-8439-5daf9ed7d20c)
+
 
 
 ## RESULT
